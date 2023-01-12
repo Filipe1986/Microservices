@@ -4,6 +4,15 @@
     - jib for docker images.
 
 
+* To run the project add the twitter4j.properties inside:
+  - multimodal/twitter-consumer/src/main/resources/twitter4j.properties
+
+## Twitter 
+  - https://developer.twitter.com/en
+  - https://twitter4j.org/
+
+
+
 ### Commands
 
 To generate image

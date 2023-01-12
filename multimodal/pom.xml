@@ -18,7 +18,7 @@
 	<properties>
 		<java.version>11</java.version>
 		<spring-boot.version>2.7.7</spring-boot.version>
-		<twitter4j.version>4.1.2</twitter4j.version>
+		<twitter4j.version>4.0.7</twitter4j.version>
 		<lombok.version>1.18.24</lombok.version>
 	</properties>
 
@@ -42,7 +42,7 @@
 			<!-- twitter4j twitter4j-core -->
 			<dependency>
 				<groupId>org.twitter4j</groupId>
-				<artifactId>twitter4j-core</artifactId>
+				<artifactId>twitter4j-stream</artifactId>
 				<version>${twitter4j.version}</version>
 			</dependency>
 			<!-- twitter4j twitter4j-core end -->
